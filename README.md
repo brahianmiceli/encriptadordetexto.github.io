@@ -1,6 +1,6 @@
  Bienvenido. 
  # Encriptador de Texto
- ***Proyecto de Alura Latam***
+ ***Proyecto para Alura Latam***
  
  ***Uso Importante:***
  
