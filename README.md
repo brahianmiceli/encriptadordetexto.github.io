@@ -1,5 +1,5 @@
 # Project | Alura 
-## Encriptador de Texto
+**Encriptador de Texto**
  
 ***Uso Importante:***
  
@@ -16,4 +16,4 @@
 
 # Website: 
 
-- https://jeanbmiceli.github.io/encriptadordetexto.github.io/
+- [Encriptador de Texto Web](https://jeanbmiceli.github.io/encriptadordetexto.github.io/)
