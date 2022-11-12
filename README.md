@@ -1,10 +1,15 @@
- Bienvenido. 
- # Encriptador de Texto
- ***Proyecto para Alura Latam***
+# Project | Alura 
+## Encriptador de Texto
  
- ***Uso Importante:***
+***Uso Importante:***
  
- *Escribir un texto la cual va encriptar despues puede copiar la palabra encriptada y luego descriptar*
+*Escribir un texto la cual va encriptar despues puede copiar la palabra encriptada y luego descriptar*
  
  
- ![Proyecto](https://user-images.githubusercontent.com/92497107/190533006-569c8456-1c85-4a70-a527-b16109e19810.png)
+![Proyecto](https://user-images.githubusercontent.com/92497107/190533006-569c8456-1c85-4a70-a527-b16109e19810.png)
+
+# Tecnologias usadas:
+
+- JavaScript
+- HTML5
+- CSS
